@@ -1,0 +1,3 @@
+git init 	nuova cartella
+git status	stato della cartella
+ 	
