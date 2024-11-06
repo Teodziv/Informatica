@@ -1,7 +1,8 @@
-git init 			nuova cartella
-git status			stato della cartella
-git add	*file*			aggiungi file 	
-git add .			aggiungi tutto 	
-git commit -m 			nuova modifica + testo
-git remote add origin *link*	aggiungi repository
-ùgit push -u origin main
+git init 				nuova cartella
+git status				stato della cartella
+git add	*file*				aggiungi file 	
+git add .				aggiungi tutto 	
+git commit -m " "			nuova modifica + testo
+git remote add origin *link*		aggiungi repository
+git push --set upstream origin master	caricare online per la prima volta
+git push -u origin main			caricare online
