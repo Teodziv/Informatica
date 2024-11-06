@@ -1,3 +1,7 @@
-git init 	nuova cartella
-git status	stato della cartella
- 	
+git init 			nuova cartella
+git status			stato della cartella
+git add	*file*			aggiungi file 	
+git add .			aggiungi tutto 	
+git commit -m 			nuova modifica + testo
+git remote add origin *link*	aggiungi repository
+ùgit push -u origin main
