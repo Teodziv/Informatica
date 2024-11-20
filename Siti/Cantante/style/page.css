@@ -21,3 +21,8 @@ body {
 footer{
     color: rgb(140, 172, 172);
 }
+
+img{
+    width: 10em;
+    border-radius: 8em;
+}
