@@ -12,6 +12,12 @@ body {
     align-items: center;
     justify-content: center;
     background: #f6f7fb;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+body.fade-in {
+    opacity: 1;
 }
 
 .container {

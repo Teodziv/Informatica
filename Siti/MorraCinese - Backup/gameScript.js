@@ -1,3 +1,7 @@
+document.addEventListener('DOMContentLoaded', () => {
+    document.body.classList.add('fade-in');
+});
+
 const gameContainer = document.querySelector(".container"),
     utenteRisultato = document.querySelector(".utente_risultato img"),
     cpuRisultato = document.querySelector(".cpu_risultato img"),
